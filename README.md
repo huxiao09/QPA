@@ -36,7 +36,7 @@ bash run_QPA.sh
 
 ## Visulization of Learning Curves
 
-You can resort to [wandb](https://wandb.ai/site) to login your personal account via export your own wandb api key. Please specify wandb config manually set 'wandb=true' in 'config/train_QPA.yaml', and
+You can resort to [wandb](https://wandb.ai/site) to login your personal account via export your own wandb api key. Please specify wandb config manually and set 'wandb=true' in 'config/train_QPA.yaml', and
 
 ```
 export WANDB_API_KEY=YOUR_WANDB_API_KEY
